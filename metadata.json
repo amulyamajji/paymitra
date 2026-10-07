@@ -1,0 +1,6 @@
+{
+  "name": "PayMitra",
+  "description": "Smart bilingual UPI payment app with auto expense tagging, budget analytics, audio guidance, fingerprint lock, and emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
